@@ -1,0 +1,140 @@
+body {
+ background-color: rgb(233, 201, 215); 
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+main {
+  text-align:center;
+  margin-top:0;
+  margin-bottom:0;
+  margin-right: 20%;
+  margin-left:20%;
+}
+/* STYLE NAV BAR */
+
+ul {
+  list-style-type: none;
+  background-color:#dfb9ce;
+  overflow:hidden;
+  padding:1em;
+}
+
+li{
+  display:inline;
+}
+
+li a {
+  text-decoration:none;
+  color: #362c15;
+  font-size: 1.3em;
+  padding:1em;
+}
+
+li a:hover {
+  background-color:rgb(145, 120, 142)
+}
+
+
+
+#main {
+width: 80%;
+max-width: 950px;
+border: 1px gray solid;
+margin: auto;
+padding: 10px;
+background-color: white;
+border-radius: 10px;
+}
+
+#header {
+margin-top: 0;
+border: 2px solid black;
+padding: 5px;
+height: 250px;
+background: beige;
+background-image: url("Women-in-STEM.jpg");
+color: white;
+}
+</style>
+
+#questions {
+  background-color:antiquewhite;
+  color:black;
+  padding: 14px 25px
+
+  text-align: center;
+  text-decoration:none;
+}
+
+#Ana {
+  height:300px;
+  width:350;
+  border-radius:15%;
+}
+
+#Ellen {
+  height:320px;
+  width:350;
+  border-radius:15%;
+}
+
+#Mary {
+  height:310px;
+  width:350;
+  border-radius:15%;
+}
+
+#MaryJ {
+  height:310px;
+  width:350;
+  border-radius:15%;
+}
+
+#Rashjesh {
+  height:310px;
+  width:350;
+  border-radius:15%;
+}
+
+#Gladys {
+  height:320px;
+  width:350;
+  border-radius:15%;
+}
+
+#Lin {
+  height:320px;
+  width:350;
+  border-radius:15%;
+}
+
+#Maryam {
+  height:320px;
+  width:350;
+  border-radius:15%;
+}
+
+#Connect {
+  height:350px;
+  width:450;
+  border-radius:15%;
+}
+
+#trio {
+  height:200px;
+  width:200;
+  border-radius:15%;
+}
+
+#link {
+  background-color:#d3a7b6;
+  color:black;
+  padding: 14px 25px
+
+  text-align: center;
+  text-decoration:none;
+}
